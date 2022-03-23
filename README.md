@@ -25,6 +25,4 @@ $ ss notacommand
 
 ---
 
-Made with ❤️ by Eddy Nguyen https://eddy.works
-
-Need coding mentorship? Request a session here: https://jooclass.com/classes/2
+Made with ❤️ by Eddy Nguyen https://eddeee888.me
